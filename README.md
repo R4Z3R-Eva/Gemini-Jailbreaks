@@ -1,5 +1,5 @@
 # Gemini-Jailbreaks
-A list of Gemini Jailbreaks 
+A list of Gemini and ChatGPT Jailbreaks 
 
 Ive been working in some gemini jailbreaks and ive found sone and made some.
 
